@@ -1,0 +1,20 @@
+= NC Wiki =
+
+== Todos ==
+
+
+== Notes ==
+
+== Commands ==
+
+[[Vim]]
+
+== Config ==
+
+[[Shell]]
+
+[[Apps]]
+
+[[Vim]]
+
+
